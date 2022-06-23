@@ -1,4 +1,4 @@
-# Descripcion
+# Descripción
 
 Este proyecto usa la API de https://imdb-api.com para responder algunas de las
 siguientes cuestiones:
@@ -19,9 +19,9 @@ si la película es buena o mala.
 Finalmente, usando también el ID, podemos mostrar un enlace a un video o incluso obtener la URL
 embed para un fichero HTML.
 
-## Documentacion de la API:
+## Documentación de la API:
 
-La documentacion se encuentra en https://imdb-api.com/api
+La documentación se encuentra en https://imdb-api.com/api
 
 ## Ejemplo
 
